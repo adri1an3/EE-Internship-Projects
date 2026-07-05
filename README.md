@@ -1,5 +1,5 @@
 # EE-Internship-Projects
-
+<br><br>
 ## Academic Integrity Notice
 <p>Many of the projects contained in this internship repository are from previous code I have written for college assignments and are being used to showcase my skills to my internship employer. Any student who takes my work, replicates it, and/or uses the code in their own schoolwork will be subject to academic discipline for plagiarizing my work.
 </p><br><br>

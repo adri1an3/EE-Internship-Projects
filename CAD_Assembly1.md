@@ -16,6 +16,6 @@ Third, I began working on the fastener. This object used more of the built-in to
 <img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/733ab7be-51a7-4783-800e-ef7eae838c20" />
 <br><br>
 
-All of this work was then combined in our assembly File by dragging the elements into a single file, putting the bracket on top of the baseplate, and fitting the fasteners into the holes. The process sounds easier than it is, but in reality, there were a lot of challenges when it came to working with the different 3D planes (XY, XZ, YZ) and navigating the software. Ultimately, the project succeeded and has inspired me to keep practicing my CAD skills.
+All of this work was then combined in our assembly File by dragging the elements into a single file, putting the bracket on top of the baseplate, and fitting the fasteners into the holes. The process sounds easier than it is, but in reality, there were a lot of challenges when it came to working with the different 3D planes (XY, XZ, YZ) and navigating the software. Ultimately, the project succeeded and has inspired me to keep practicing my CAD skills.<br>
 <img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/718ea73a-768c-420c-b986-7b0355b93b11" />
 

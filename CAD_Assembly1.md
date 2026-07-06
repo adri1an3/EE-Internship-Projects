@@ -7,6 +7,11 @@
 The first part, which was designed, was the baseplate. This was done by a series of creating the sketch of a square, sketching an additional line at a corner, adding a circle inside, extruding, filleting the remaining corners, and choosing our paint in the "appearance" tab.
 <img width="660" height="547" alt="image" src="https://github.com/user-attachments/assets/58405cd1-c02d-4600-aab9-735bfbebbab9" />
 <br><br>
+
 Then, I began to create the bracket. This process was similar to that of the baseplate, except for the extruding of walls and additional cut holes.
 <img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/1a0be5cc-7f45-4231-b1b0-b3ebd0078ecb" />
+<br><br>
+
+Third, I began working on the fastener. This object used more of the built-in tools to develop. The process included creating 2 circles with a smaller one within the bigger one. The smaller one was extruded and threaded. The bigger one was turned into our head and then chamfered. Then I cut the shape of a hexagon off the chamfered head. Finishing our fastener.
+<img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/733ab7be-51a7-4783-800e-ef7eae838c20" />
 <br><br>

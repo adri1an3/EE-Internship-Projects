@@ -8,14 +8,14 @@
 <img width="660" height="547" alt="image" src="https://github.com/user-attachments/assets/58405cd1-c02d-4600-aab9-735bfbebbab9" />
 <br><br>
 
-Then, I began to create the bracket. This process was similar to that of the baseplate, except for the extruding of walls and additional cut holes.<br>
+<p>Then, I began to create the bracket. This process was similar to that of the baseplate, except for the extruding of walls and additional cut holes.</p>
 <img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/1a0be5cc-7f45-4231-b1b0-b3ebd0078ecb" />
 <br><br>
 
-Third, I began working on the fastener. This object used more of the built-in tools to develop. The process included creating 2 circles with a smaller one within the bigger one. The smaller one was extruded and threaded. The bigger one was turned into our head and then chamfered. Then I cut the shape of a hexagon off the chamfered head. Finishing our fastener.<br>
+<p>Third, I began working on the fastener. This object used more of the built-in tools to develop. The process included creating 2 circles with a smaller one within the bigger one. The smaller one was extruded and threaded. The bigger one was turned into our head and then chamfered. Then I cut the shape of a hexagon off the chamfered head. Finishing our fastener.</p>
 <img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/733ab7be-51a7-4783-800e-ef7eae838c20" />
 <br><br>
 
-All of this work was then combined in our assembly File by dragging the elements into a single file, putting the bracket on top of the baseplate, and fitting the fasteners into the holes. The process sounds easier than it is, but in reality, there were a lot of challenges when it came to working with the different 3D planes (XY, XZ, YZ) and navigating the software. Ultimately, the project succeeded and has inspired me to keep practicing my CAD skills.<br>
+<p>All of this work was then combined in our assembly File by dragging the elements into a single file, putting the bracket on top of the baseplate, and fitting the fasteners into the holes. The process sounds easier than it is, but in reality, there were a lot of challenges when it came to working with the different 3D planes (XY, XZ, YZ) and navigating the software. Ultimately, the project succeeded and has inspired me to keep practicing my CAD skills.</p>
 <img width="659" height="545" alt="image" src="https://github.com/user-attachments/assets/718ea73a-768c-420c-b986-7b0355b93b11" />
 
